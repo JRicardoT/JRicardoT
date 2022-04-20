@@ -3,7 +3,7 @@
 ### About Me
 
 <p>
-Marine Corps Veteran and Software Engineer currently completing a Frontend certificate at <a href="https://turing.edu/">Turing School of Software & Design 💻</a>
+Marine Corps Veteran and Software Engineer
 </p>
 
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/>](https://www.linkedin.com/in/ricardo-tovar-7197b5221/)
