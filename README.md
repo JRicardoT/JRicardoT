@@ -3,7 +3,11 @@
 ### About Me
 
 <p>
-Marine Corps Veteran and Software Engineer
+A career change Software Engineer that is creative, detail-oriented, and a Marine Corps Veteran.
+
+During my time in the military as a Heavy Equipment Engineer, I learned problem-solving, communication, and teamwork skills that allowed me to thrive under pressure. After separation, I sought a constantly growing career, evolving and requiring people to be detail-oriented. This led me to the world of software development that quickly fascinated me, and I enrolled at Turing School of Software Development.
+
+I brought together my skills as a veteran and a software engineer to maximize working solo and in team environments. I am comfortable receiving and providing feedback that will allow me to continue growing and learning. I can write JavaScript, semantic HTML, CSS, Sass, React, TypeScript, OOP, TDD, Cypress, Mocha, and Chai.
 </p>
 
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/>](https://www.linkedin.com/in/ricardo-tovar-7197b5221/)
